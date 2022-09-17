@@ -1,3 +1,5 @@
+--CREATED BY СЫН ПИЗДЫ 4(CASTY PRO CODER228)
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
